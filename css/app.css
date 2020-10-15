@@ -1,0 +1,19 @@
+.nav_bar{
+    padding: 10px;
+    margin: 0;
+    background-color:goldenrod;
+}
+.nav_bar li{
+    display: inline;
+    color:white;
+    margin-right: 10px;
+}
+.nav_bar li a{
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.right_items{
+    float:right;
+}
